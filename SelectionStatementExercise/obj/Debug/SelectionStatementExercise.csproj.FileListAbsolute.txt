@@ -1,0 +1,8 @@
+C:\Users\Damion\source\repos\SelectionStatementExercise\SelectionStatementExercise\bin\Debug\SelectionStatementExercise.exe.config
+C:\Users\Damion\source\repos\SelectionStatementExercise\SelectionStatementExercise\bin\Debug\SelectionStatementExercise.exe
+C:\Users\Damion\source\repos\SelectionStatementExercise\SelectionStatementExercise\bin\Debug\SelectionStatementExercise.pdb
+C:\Users\Damion\source\repos\SelectionStatementExercise\SelectionStatementExercise\obj\Debug\SelectionStatementExercise.csproj.AssemblyReference.cache
+C:\Users\Damion\source\repos\SelectionStatementExercise\SelectionStatementExercise\obj\Debug\SelectionStatementExercise.csproj.SuggestedBindingRedirects.cache
+C:\Users\Damion\source\repos\SelectionStatementExercise\SelectionStatementExercise\obj\Debug\SelectionStatementExercise.csproj.CoreCompileInputs.cache
+C:\Users\Damion\source\repos\SelectionStatementExercise\SelectionStatementExercise\obj\Debug\SelectionStatementExercise.exe
+C:\Users\Damion\source\repos\SelectionStatementExercise\SelectionStatementExercise\obj\Debug\SelectionStatementExercise.pdb
